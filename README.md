@@ -24,3 +24,7 @@ Responsive Personal Portfolio Website Template developed by HTML, CSS & JavaScri
 
 ![preview img](/preview.png)
 
+## CopyRight
+
+[Bedimcode](https://github.com/bedimcode)
+
